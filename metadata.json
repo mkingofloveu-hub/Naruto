@@ -1,0 +1,6 @@
+{
+  "name": "Naruto Ultimate Shinobi War",
+  "description": "3D anime shinobi arena fighting game with manual combat, elemental jutsu, transformations, and the 10-boss Akatsuki War campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
